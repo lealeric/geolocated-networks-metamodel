@@ -1,0 +1,1 @@
+# geolocated-networks-metamodel
