@@ -14,7 +14,7 @@ The `geolocated-networks-metamodel` project provides a metamodel for representin
 To install the `geolocated-networks-metamodel`, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/geolocated-networks-metamodel.git
+git clone https://github.com/lealeric/geolocated-networks-metamodel.git
 cd geolocated-networks-metamodel
 ```
 
